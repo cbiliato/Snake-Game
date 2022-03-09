@@ -1,4 +1,4 @@
-# personalProjects
+# Snake Game
 
 •	Developed an application in PyCharm using Python that allows users to play Snake utilized by computer peripherals
 
