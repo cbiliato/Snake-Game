@@ -10,4 +10,5 @@
 
 •	Used: Python, PyCharm, pygame
 
-![Snake Game](https://user-images.githubusercontent.com/93220832/157380781-045eda71-bfc0-4c44-9c8d-e21479296023.jpg)
+![Snake Game](https://user-images.githubusercontent.com/93220832/157381366-5636a49e-7f1f-48fa-9f85-df61a6761673.jpg)
+
