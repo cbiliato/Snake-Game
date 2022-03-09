@@ -1,9 +1,7 @@
 # personalProjects
 
-Snake Game:
-
-My version of a popular 2-Dimensional game, Snake Game
-Movement is controlled by the arrow keys
-Done on PyCharm with pygame to provide the visuals
-
-Completed on March 8, 2022 by Carter Biliato
+•	Developed an application in PyCharm using Python that allows users to play Snake utilized by computer peripherals
+•	Utilized classes, objects, and encapsulation to further programs capabilities while condensing code
+•	Incorporated pygame to display image files
+•	Imported random and time libraries to increase complexity and precision of application
+•	Used: Python, PyCharm, pygame
