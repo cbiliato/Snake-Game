@@ -9,3 +9,5 @@
 •	Imported random and time libraries to increase complexity and precision of application
 
 •	Used: Python, PyCharm, pygame
+
+![Snake Game](https://user-images.githubusercontent.com/93220832/157380781-045eda71-bfc0-4c44-9c8d-e21479296023.jpg)
